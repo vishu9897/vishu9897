@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Gupta</h1>
-<h3 align="center">I am a software developer, working on ecommerce project. I’m currently employed as a Associate software engineer at Accenture.</h3>
+<h3 align="center">I am a software developer, working on ecommerce project. I’m currently employed as a Software engineer at Accenture.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishu9897" alt="vishu9897" /></a> </p>
 
